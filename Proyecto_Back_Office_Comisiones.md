@@ -9,15 +9,15 @@ Unificación de las ventas regionales para el correcto seguimiento de las comisi
 
 1. Ventas por país (colaborativa)
 - Registrar respetando las columnas los documentos emitidos, Facturas, Notas de Credito, Notas de debito, etc.
-Emision
-Cliente
-Tipo de documento
-Numero
-Monto total
-Producto
-Lote / Referencia
-Cantidad
-...
+Emision,
+Cliente,
+Tipo de documento,
+Numero,
+Monto total,
+Producto,
+Lote / Referencia,
+Cantidad,
+...,
 Subtotal
 
 Ejemplo:
@@ -44,6 +44,7 @@ Seguimiento de comisiones a traves de desplegables:
 
 Permite dar mejor seguimiento a las comisiones y automatizar reportes.
 Las planillas tienen la misma estructura, por lo que pueden llevarse facilmente a programas como PowerBI para su analisis posterior.
+
 
 
 
