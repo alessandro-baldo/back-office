@@ -1,4 +1,4 @@
-## Proyecto <Back Office>
+## <Back Office>
 
 ## Seguimiento de pagos a proveedores
 
@@ -35,6 +35,7 @@ Conciliación de pagos.
 ## Comentarios finales:
 
 Permite la conciliación entre los pagos realizados y la documentación recibida, filtrando por cliente y periodo de emisión.
+
 
 
 
