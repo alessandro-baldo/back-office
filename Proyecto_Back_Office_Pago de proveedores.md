@@ -31,10 +31,12 @@ Conciliación de pagos.
 ## Fórmulas útiles:
 1. IMPORTRANGE
 2. FILTER
+3. BUSCARV
 
 ## Comentarios finales:
 
 Permite la conciliación entre los pagos realizados y la documentación recibida, filtrando por cliente y periodo de emisión.
+
 
 
 
