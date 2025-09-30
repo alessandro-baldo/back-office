@@ -6,8 +6,6 @@ Objetivo
 Tener a disposición datos actualizados sobre los pagos realizados y documentación recibida, por cliente.
 Conciliación de pagos.
 
-//
-
 ## Estructura de las planillas a usar:
 
 1. Planilla general de pagos (colaborativa):
@@ -23,8 +21,6 @@ Conciliación de pagos.
 - Se importa la planilla colaborativa a traves de la función "importrange".
 - Cruzar información a traves del numero de RUT.
 
-//
-
 ## Uso de la planilla:
 1. Importar la planilla general de pagos usando "IMPORTRANGE"
 2. Actualizar manualmente los datos del sistema de facturación.
@@ -36,10 +32,9 @@ Conciliación de pagos.
 1. IMPORTRANGE
 2. FILTER
 
-//
-
-Comentarios finales:
+## Comentarios finales:
 
 Permite la conciliación entre los pagos realizados y la documentación recibida, filtrando por cliente y periodo de emisión.
+
 
 
