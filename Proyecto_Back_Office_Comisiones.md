@@ -21,9 +21,9 @@ Cantidad
 Subtotal
 
 Ejemplo:
-Ventas X país
-Ventas Y País
-Ventas Z país
+-Ventas X país
+-Ventas Y País
+-Ventas Z país
 
 2. Planilla Comisiones (colaborativa)
 Información sobre comisiones:
@@ -44,4 +44,5 @@ Seguimiento de comisiones a traves de desplegables:
 
 Permite dar mejor seguimiento a las comisiones y automatizar reportes.
 Las planillas tienen la misma estructura, por lo que pueden llevarse facilmente a programas como PowerBI para su analisis posterior.
+
 
