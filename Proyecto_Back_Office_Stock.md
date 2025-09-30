@@ -36,6 +36,5 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 
 Permite mantener la información detallada de los ingresos y egresos de inventario.
 
-## [Ejemplo reporte PDF](https://github.com/alessandro-baldo/back-office/blob/main/Seguimiento%20Pais%20-%20Inventario.pdf)
 
 
