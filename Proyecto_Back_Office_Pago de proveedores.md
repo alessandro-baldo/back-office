@@ -37,7 +37,8 @@ Conciliación de pagos.
 
 Permite la conciliación entre los pagos realizados y la documentación recibida, filtrando por cliente y periodo de emisión.
 
-## [Ver PDF de ejemplo](https://github.com/alessandro-baldo/back-office/blob/main/Pagos%20a%20proveedores%20-%20Conciliaci%C3%B3n%20(Ejemplo%20de%20PDF))
+## [Ver PDF de ejemplo](https://github.com/alessandro-baldo/back-office/blob/main/Pagos%20a%20proveedores%20-%20Conciliaci%C3%B3n%20(Ejemplo%20de%20PDF).pdf)
+
 
 
 
