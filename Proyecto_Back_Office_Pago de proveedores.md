@@ -19,7 +19,7 @@ Conciliación de pagos.
 - Se descarga directamente del sistema de facturación (reporte compras) 
 - Se actualiza de forma periódica.
 
-3. Planilla de conciliación de pagos
+3. Planilla de conciliación de pagos (individual)
 - Se importa la planilla colaborativa a traves de la función "importrange".
 - Cruzar información a traves del numero de RUT.
 
@@ -38,4 +38,5 @@ Conciliación de pagos.
 //
 
 Comentarios finales:
+
 Permite la conciliación entre los pagos realizados y la documentación recibida.
