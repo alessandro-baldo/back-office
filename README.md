@@ -4,4 +4,4 @@ Idea de este proyecto: Documentar las herramientas que estoy utilizando para la 
 
 - Pago de proveedores
 - Comisiones
-- Invetario
+- Inventario
