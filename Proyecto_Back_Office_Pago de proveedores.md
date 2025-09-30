@@ -3,7 +3,7 @@
 ## Seguimiento de pagos a proveedores
 
 Objetivo
-Tener a disposición datos actualizados sobre los pagos realizados y documentación recibida.
+Tener a disposición datos actualizados sobre los pagos realizados y documentación recibida, por cliente.
 Conciliación de pagos.
 
 //
@@ -29,7 +29,8 @@ Conciliación de pagos.
 1. Importar la planilla general de pagos usando "IMPORTRANGE"
 2. Actualizar manualmente los datos del sistema de facturación.
 3. A traves de la función "FILTER" cruzar datos usando de referencia el numero de RUT.
-4. Revisar diariamente y conciliar.
+4. Seleccionar periodo.
+5. Revisar diariamente y conciliar.
 
 ## Fórmulas útiles:
 1. IMPORTRANGE
@@ -39,5 +40,6 @@ Conciliación de pagos.
 
 Comentarios finales:
 
-Permite la conciliación entre los pagos realizados y la documentación recibida.
+Permite la conciliación entre los pagos realizados y la documentación recibida, filtrando por cliente y periodo de emisión.
+
 
