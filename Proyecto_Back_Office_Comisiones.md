@@ -21,28 +21,29 @@ Cantidad
 Subtotal
 
 Ejemplo:
--Ventas X país
--Ventas Y País
--Ventas Z país
+Ventas X país,
+Ventas Y País,
+Ventas Z país.
 
 2. Planilla Comisiones (colaborativa)
 Información sobre comisiones:
--Vendedora asignada a cada cliente
--Tasa de comisión a usar por producto vendido
+-Vendedora asignada a cada cliente,
+-Tasa de comisión a usar por producto vendido,
 Datos de ventas importados a traves de IMPORTRANGE.
 Seguimiento de comisiones a traves de desplegables:
--Pendiente
--Pago
+-Pendiente,
+-Pago,
 -Controlar
 
 ### Datos Utiles
-1. IMPORTRANGE
-2. FILTER
+1. IMPORTRANGE,
+2. FILTER,
 3. DESPLEGABLES
 
 ### Comentarios finales
 
 Permite dar mejor seguimiento a las comisiones y automatizar reportes.
 Las planillas tienen la misma estructura, por lo que pueden llevarse facilmente a programas como PowerBI para su analisis posterior.
+
 
 
