@@ -36,14 +36,15 @@ Seguimiento de comisiones a traves de desplegables:
 -Controlar
 
 ### Datos Utiles
-1. IMPORTRANGE,
-2. FILTER,
+1. IMPORTRANGE
+2. FILTER
 3. DESPLEGABLES
 
 ### Comentarios finales
 
 Permite dar mejor seguimiento a las comisiones y automatizar reportes.
 Las planillas tienen la misma estructura, por lo que pueden llevarse facilmente a programas como PowerBI para su analisis posterior.
+
 
 
 
