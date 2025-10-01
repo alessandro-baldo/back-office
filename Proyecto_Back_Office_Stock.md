@@ -10,15 +10,15 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 1. Planilla de Stock (colaborativa)
 - Agregar productos que ofrecen de origen, indicando su código y producto.
 - Se ingresa manualmente los datos de la compra de origen:
-- Invoice;
-- Emisión;
-- Cod de producto;
+- Invoice
+- Emisión
+- Cod de producto
 - Producto **(Importante, se utiliza BUSCARV)
-- Lote o referencia;
-- Vencimiento;
-- Cantidad;
-- Precio unitario;
-- Monto total;
+- Lote o referencia
+- Vencimiento
+- Cantidad
+- Precio unitario
+- Monto total
 - Destino final
 
 2. Planilla Seguimiento País 
@@ -35,6 +35,7 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 ### Comentarios finales
 
 Permite mantener la información detallada de los ingresos y egresos de inventario.
+
 
 
 
