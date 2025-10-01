@@ -15,7 +15,9 @@ Ejemplo:
 Emision | Cliente | Tipo de documento | Numero doc. | Monto total | Producto Lote / Referencia | Cantidad | Monto unit. | Subtotal | ... |
 
 -Planilla Ventas X país
+
 -Planilla Ventas Y país
+
 -Planilla Ventas Z país
 
 2. Planilla Comisiones (colaborativa)
@@ -38,6 +40,7 @@ Seguimiento de comisiones a traves de desplegables:
 
 Permite dar mejor seguimiento a las comisiones y automatizar reportes.
 Las planillas tienen la misma estructura, por lo que pueden llevarse facilmente a programas como PowerBI para su analisis posterior.
+
 
 
 
