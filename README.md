@@ -2,6 +2,6 @@
 
 ## Objetivo de este proyecto: Documentar las herramientas que estoy utilizando para la gestión operativa.
 
-- Pago de proveedores
-- Comisiones
-- Inventario
+- [Pago de proveedores y conciliación](https://github.com/alessandro-baldo/back-office/blob/main/Proyecto_Back_Office_Comisiones.md)
+- [Comisiones](https://github.com/alessandro-baldo/back-office/blob/main/Proyecto_Back_Office_Pago%20de%20proveedores.md)
+- [Inventario](https://github.com/alessandro-baldo/back-office/blob/main/Proyecto_Back_Office_Stock.md)
