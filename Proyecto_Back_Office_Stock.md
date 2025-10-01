@@ -5,6 +5,8 @@
 ### Objetivo
 Tener a disposición los ingresos de inventario de los diferentes depósitos y poder contrastar productos y lotes vendidos por región.
 
+--
+
 ### Estructura de las planillas a usar:
 
 ## 1. Planilla de Stock (colaborativa)
@@ -33,9 +35,10 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 4. BUSCARV
 3. Tablas dinámicas
 
-### Comentarios finales
+## Comentarios finales
 
 Permite mantener la información detallada de los ingresos y egresos de inventario.
+
 
 
 
