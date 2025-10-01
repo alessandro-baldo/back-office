@@ -23,7 +23,7 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 - Monto total
 - Destino final
 
-## 2. Planilla Seguimiento País 
+## 2. Planilla Seguimiento País (individual)
 - Reporte de stock y consumo por país.
 - También incluye datos de ventas.
 
@@ -38,6 +38,7 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 ## Comentarios finales
 
 Permite mantener la información detallada de los ingresos y egresos de inventario.
+
 
 
 
