@@ -25,9 +25,9 @@ Información sobre comisiones:
 - Informacion general a tener en cuenta
 Datos de ventas por país importados a traves de IMPORTRANGE.
 - Seguimiento de comisiones a traves de desplegables:
- - Pendiente
- - Pago
- - Controlar
+  - Pendiente
+  - Pago
+  - Controlar
 
 ### Datos Utiles
 1. IMPORTRANGE
@@ -38,6 +38,7 @@ Datos de ventas por país importados a traves de IMPORTRANGE.
 
 Permite dar mejor seguimiento a las comisiones y automatizar reportes.
 Las planillas tienen la misma estructura, por lo que pueden llevarse facilmente a programas como PowerBI para su analisis posterior.
+
 
 
 
