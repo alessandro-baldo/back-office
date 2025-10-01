@@ -5,9 +5,9 @@
 ### Objetivo
 Tener a disposición los ingresos de inventario de los diferentes depósitos y poder contrastar productos y lotes vendidos por región.
 
-## Estructura de las planillas a usar:
+### Estructura de las planillas a usar:
 
-1. Planilla de Stock (colaborativa)
+## 1. Planilla de Stock (colaborativa)
 - Agregar productos que ofrecen de origen, indicando su código y producto.
 - Se ingresa manualmente los datos de la compra de origen:
 - Invoice
@@ -21,10 +21,11 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 - Monto total
 - Destino final
 
-2. Planilla Seguimiento País 
+## 2. Planilla Seguimiento País 
 - Reporte de stock y consumo por país.
 - También incluye datos de ventas.
 
+--
 
 ## Datos útiles
 1. IMPORTRANGE
@@ -35,6 +36,7 @@ Tener a disposición los ingresos de inventario de los diferentes depósitos y p
 ### Comentarios finales
 
 Permite mantener la información detallada de los ingresos y egresos de inventario.
+
 
 
 
