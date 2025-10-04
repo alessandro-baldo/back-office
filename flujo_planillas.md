@@ -28,7 +28,10 @@ flowchart LR
         K[Reporte de inventario]
         L[Reporte de compras]
         M[Dashboards]
+        N[Reporte de comisiones]
     end
+
+%% Flujo
 
     A --> F
     B --> F
@@ -49,6 +52,8 @@ flowchart LR
     G --> J
 
     I --> L
+    H --> N
+
 
 
 
