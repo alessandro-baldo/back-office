@@ -35,16 +35,16 @@ flowchart LR
 
     A --> F
     B --> F
-    C --> F
-    D --> F
+    C -.-> F
+    D -.-> F
 
     B --> G
-    C --> G
-    D --> G
+    C -.-> G
+    D -.-> G
 
     B --> H
-    C --> H
-    D --> H
+    C -.-> H
+    D -.-> H
 
     E --> I
 
@@ -53,6 +53,7 @@ flowchart LR
 
     I --> L
     H --> M
+
 
 
 
