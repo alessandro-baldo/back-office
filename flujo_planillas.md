@@ -20,6 +20,7 @@ flowchart LR
         J[Reporte de ventas]
         K[Reporte de inventario]
         L[Reporte de compras]
+        M[Dashboards]
     end
 
     A --> F
@@ -41,4 +42,5 @@ flowchart LR
     G --> J
 
     I --> L
+
 
