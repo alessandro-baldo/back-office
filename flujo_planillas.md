@@ -5,54 +5,57 @@ flowchart LR
 %% Ingresos de datos
 
     subgraph Ingreso de datos
-        A[Compras de origen]
-        B[Ventas X país]
-        C[Ventas Y país]
-        D[Ventas Z país]
-        E[Pagos a proveedores]
+        A[Compras de origen];
+        B[Ventas X país];
+        C[Ventas Y país];
+        D[Ventas Z país];
+        E[Pagos a proveedores];
     end
 
 %% Salida de datos
 
     subgraph Salida de datos
-        F[Seguimiento de inventario]
-        G[Seguimiento de clientes]
-        H[Seguimiento de comisiones]
-        I[Seguimiento a proveedores]
+        F[Seguimiento de inventario];
+        G[Seguimiento de clientes];
+        H[Seguimiento de comisiones];
+        I[Seguimiento a proveedores];
     end
 
 %% Reportes
 
     subgraph Reportes
-        J[Reporte de ventas]
-        K[Reporte de inventario]
-        L[Reporte de compras]
-        M[Reporte de comisiones]
+        J[Reporte de ventas];
+        K[Reporte de inventario];
+        L[Reporte de compras];
+        M[Reporte de comisiones];
         N[Dashboards]    
     end
 
-%% Flujo
+%% Flujo primario
 
-    A --> F
-    B --> F
-    C -.-> F
-    D -.-> F
+    A --> F;
+    B --> F;
+    C -.-> F;
+    D -.-> F;
 
-    B --> G
-    C -.-> G
-    D -.-> G
+    B --> G;
+    C -.-> G;
+    D -.-> G;
 
-    B --> H
-    C -.-> H
-    D -.-> H
+    B --> H;
+    C -.-> H;
+    D -.-> H;
 
-    E --> I
+    E --> I;
 
-    F --> K
-    G --> J
+%% Flujo secundario
 
-    I --> L
-    H --> M
+    F --> K;
+    G --> J;
+
+    I --> L;
+    H --> M;
+
 
 
 
