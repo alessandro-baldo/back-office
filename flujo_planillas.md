@@ -1,6 +1,9 @@
 ```mermaid
 
 flowchart LR
+
+%% Ingresos de datos
+
     subgraph Ingreso de datos
         A[Compras de origen]
         B[Ventas X país]
@@ -9,12 +12,16 @@ flowchart LR
         E[Pagos a proveedores]
     end
 
+%% Salida de datos
+
     subgraph Salida de datos
         F[Seguimiento de inventario]
         G[Seguimiento de clientes]
         H[Seguimiento de comisiones]
         I[Seguimiento a proveedores]
     end
+
+%% Reportes
 
     subgraph Reportes
         J[Reporte de ventas]
@@ -42,5 +49,6 @@ flowchart LR
     G --> J
 
     I --> L
+
 
 
