@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart LR
     subgraph Ingreso de datos
         A[Compras de origen]
@@ -37,4 +39,6 @@ flowchart LR
 
     F --> K
     G --> J
+
     I --> L
+\```
