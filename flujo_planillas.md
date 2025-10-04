@@ -12,9 +12,9 @@ flowchart LR
         E[Pagos a proveedores];
     end
 
-%% Salida de datos
+%% Procesamiento de datos
 
-    subgraph Salida de datos
+    subgraph Procesamiento de datos
         F[Seguimiento de inventario];
         G[Seguimiento de clientes];
         H[Seguimiento de comisiones];
@@ -57,6 +57,7 @@ flowchart LR
     H --> M;
 
 %% Fin
+
 
 
 
