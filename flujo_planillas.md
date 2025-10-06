@@ -30,9 +30,9 @@ flowchart LR
         M[Reporte de comisiones]  
     end
 
-%% Dashboards y kpis
+%% KPI'S y Dashboards
 
-    subgraph Dashboards y KPI's
+    subgraph KPI'S y Dashboards
         O[Dashboards]
         P[KPI's] 
     end
@@ -62,7 +62,8 @@ flowchart LR
     H --> M;
     I --> L;
 
-%%
+%% Flujo Tercero
+
     K --> P;
     J --> P;
     M --> P;
@@ -70,6 +71,7 @@ flowchart LR
     P --> O;
 
 %% Fin
+
 
 
 
