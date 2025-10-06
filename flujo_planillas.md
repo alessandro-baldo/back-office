@@ -52,8 +52,11 @@ flowchart LR
 
     F --> K;
     G --> J;
+    H --> M;
+    E --> I; 
 
 %% Fin
+
 
 
 
