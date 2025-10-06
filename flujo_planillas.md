@@ -63,12 +63,14 @@ flowchart LR
     I --> L;
 
 %%
-    K --> P
-    J --> P
-    M --> P
-    L --> P
+    K --> P;
+    J --> P;
+    M --> P;
+    L --> P;
+    O --> P;
 
 %% Fin
+
 
 
 
