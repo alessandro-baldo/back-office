@@ -70,7 +70,10 @@ flowchart LR
     L --> P;
     P --> O;
 
+click P "https://github.com/alessandro-baldo/back-office/blob/main/kpis.md"
+
 %% Fin
+
 
 
 
