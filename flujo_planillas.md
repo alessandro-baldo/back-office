@@ -33,7 +33,7 @@ flowchart LR
 
 %% Dashboards y kpis
 
-    subgraph Reportes
+    subgraph Dashboards y KPI's
         O[Dashboards]
         N[KPI's]    
     end
@@ -64,6 +64,7 @@ flowchart LR
     I --> L; 
 
 %% Fin
+
 
 
 
