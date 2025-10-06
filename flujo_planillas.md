@@ -38,7 +38,7 @@ flowchart LR
     end
 
 
-%% Flujo primario
+%% Primer flujo
 
     A --> F;
     B --> F;
@@ -55,14 +55,14 @@ flowchart LR
 
     E --> I;
 
-%% Flujo secundario
+%% Segundo flujo
 
     F --> K;
     G --> J;
     H --> M;
     I --> L;
 
-%% Flujo Tercero
+%% Tercer flujo
 
     K --> P;
     J --> P;
@@ -73,6 +73,7 @@ flowchart LR
 click P "https://github.com/alessandro-baldo/back-office/blob/main/kpis.md"
 
 %% Fin
+
 
 
 
