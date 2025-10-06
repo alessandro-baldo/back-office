@@ -30,9 +30,9 @@ flowchart LR
         M[Reporte de comisiones]  
     end
 
-%% KPI'S y Dashboards
+%% Visualización
 
-    subgraph KPI'S y Dashboards
+    subgraph Visualización
         O[Dashboards]
         P[KPI's] 
     end
@@ -71,6 +71,7 @@ flowchart LR
     P --> O;
 
 %% Fin
+
 
 
 
