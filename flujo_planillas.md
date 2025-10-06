@@ -59,9 +59,8 @@ subgraph Dashboards y KPI's
     F --> K;
     G --> J;
 
-    I --> L;
-
 %% Fin
+
 
 
 
