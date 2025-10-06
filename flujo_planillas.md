@@ -27,8 +27,7 @@ flowchart LR
         J[Reporte de ventas];
         K[Reporte de inventario];
         L[Reporte de compras];
-        M[Reporte de comisiones];
-        N[Dashboards]    
+        M[Reporte de comisiones]  
     end
 
 %% Dashboards y kpis
@@ -64,9 +63,13 @@ flowchart LR
     I --> L;
 
 %%
-
+    K --> P
+    J --> P
+    M --> P
+    L --> P
 
 %% Fin
+
 
 
 
