@@ -67,9 +67,10 @@ flowchart LR
     J --> P;
     M --> P;
     L --> P;
-    O --> P;
+    P --> O;
 
 %% Fin
+
 
 
 
