@@ -31,6 +31,14 @@ flowchart LR
         N[Dashboards]    
     end
 
+%% Dashboards y kpis
+
+    subgraph Reportes
+        O[Dashboards]
+        N[KPI's]    
+    end
+
+
 %% Flujo primario
 
     A --> F;
@@ -56,6 +64,7 @@ flowchart LR
     I --> L; 
 
 %% Fin
+
 
 
 
