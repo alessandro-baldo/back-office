@@ -35,7 +35,7 @@ flowchart LR
 
     subgraph Dashboards y KPI's
         O[Dashboards]
-        N[KPI's]    
+        P[KPI's] 
     end
 
 
@@ -64,6 +64,7 @@ flowchart LR
     I --> L; 
 
 %% Fin
+
 
 
 
