@@ -1,6 +1,10 @@
-KPI's
+### KPI's
 
-- Cantidad de facturas pendiente de pago;
-- Centidad de facturas vencidas;
-- Monto total pendiente;
-- Stock proximo a vencerse;
+- Cantidad de facturas pendiente de cobro;
+- Monto total pendiente de cobro;
+- Cantidad de facturas vencidas;
+- Inventario proximo a vencerse;
+- Cantidad de productos vendidos;
+- Cantidad de productos vendidos por vendedores;
+  
+
