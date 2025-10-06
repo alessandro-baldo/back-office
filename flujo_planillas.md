@@ -60,9 +60,9 @@ subgraph Dashboards y KPI's
     G --> J;
 
     I --> L;
-    H --> M;
 
 %% Fin
+
 
 
 
