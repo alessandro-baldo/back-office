@@ -2,6 +2,8 @@
 
 Scrip usado:
 
+Enlace: (https://gist.github.com/abhijeetchopra/99a11fb6016a70287112)
+
 // Abhijeet Chopra
 // 26 February 2016
 // Google Apps Script to make copies of Google Sheet in specified destination folder
